@@ -1,0 +1,22 @@
+{
+	"name": "vue-source-code",
+	"version": "1.0.0",
+	"description": "as it's name",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"vue"
+	],
+	"author": "wufeifan",
+	"license": "ISC",
+	"dependencies": {
+		"vue": "^2.6.11"
+	},
+	"frame": "vue",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Firefan/vue-source-code.git"
+	}
+}
